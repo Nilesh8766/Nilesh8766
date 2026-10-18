@@ -96,7 +96,23 @@ Explore the repository for the dataset, methodology, analysis, and findings.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh8766&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
+  <a href="https://github.com/Nilesh8766">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh8766&theme=github-compact&hide_border=true&area=true"
+      alt="GitHub Contribution Activity Graph"
+      width="100%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Nilesh8766?tab=repositories">
+    View My Repositories
+  </a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/Nilesh8766/airline_operations_analytics">
+    Featured Analytics Project
+  </a>
 </p>
 
 ---
