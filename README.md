@@ -148,7 +148,11 @@ An analytics project focused on exploring airline operational data, identifying 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nilesh8766&theme=transparent&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=Nilesh8766&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2F81F7&fire=F0883E&currStreakLabel=2F81F7&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E"
+    alt="Nilesh's GitHub Contribution Streak"
+    width="80%"
+  />
 </p>
 
 ---
