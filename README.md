@@ -41,7 +41,13 @@
 ### 📊 Data Analytics
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/microsoft_excel.svg" height="45" width="45" alt="Microsoft Excel" title="Microsoft Excel"/>
+  <img
+  src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/microsoft-excel-icon.png"
+  height="45"
+  width="45"
+  alt="Microsoft Excel"
+  title="Microsoft Excel"
+/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="45" width="45" alt="Power BI" title="Power BI"/>
   &nbsp;&nbsp;&nbsp;
@@ -51,7 +57,13 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/pandas/150458" height="45" width="45" alt="Pandas" title="Pandas"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/seaborn/4C72B0" height="45" width="45" alt="Seaborn" title="Seaborn"/>
+  <img
+  src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg"
+  height="45"
+  width="90"
+  alt="Seaborn"
+  title="Seaborn"
+/>
 </p>
 
 ### 🗄️ Databases & Development Tools
