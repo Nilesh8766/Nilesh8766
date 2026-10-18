@@ -12,8 +12,11 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nilesh-buradkar/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="32" width="32"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+       alt="LinkedIn"
+       height="32"
+       width="32"/>
+</a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/nilesh_8766/">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="32" width="32"/>
