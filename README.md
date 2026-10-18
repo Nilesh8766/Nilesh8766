@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nilesh Buradkar</h1>
 <h3 align="center">Associate Process Executive | Aspiring Data Analyst | Excel | SQL | Power BI | Python | EDA | AI & Data Operations | Generative AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niesh8766&label=Profile%20views&color=0e75b6&style=flat" alt="niesh8766" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilesh8766&label=Profile%20views&color=0e75b6&style=flat" alt="nilesh8766" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niesh8766" alt="niesh8766" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilesh8766" alt="nilesh8766" /></a> </p>
 
 - 🔭 I’m currently working on [airline_operations_analytics](https://github.com/Nilesh8766/airline_operations_analytics)
 
@@ -24,8 +24,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niesh8766&show_icons=true&locale=en&layout=compact" alt="niesh8766" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilesh8766&show_icons=true&locale=en&layout=compact" alt="nilesh8766" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niesh8766&show_icons=true&locale=en" alt="niesh8766" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilesh8766&show_icons=true&locale=en" alt="nilesh8766" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niesh8766&" alt="niesh8766" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilesh8766&" alt="nilesh8766" /></p>
