@@ -1,23 +1,23 @@
-<!--
-  GitHub Profile README
-  Repository: https://github.com/Nilesh8766/Nilesh8766
--->
-
 <h1 align="center">Hi 👋, I'm Nilesh Buradkar</h1>
 
 <h3 align="center">Associate Process Executive | Aspiring Data Analyst</h3>
 
 <p align="center">
-  <a href="https://github.com/Nilesh8766">
-    <img src="https://img.shields.io/badge/GitHub-Nilesh8766-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nilesh-buradkar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
+  Turning raw data into meaningful insights through analytics, visualization, and business thinking.
 </p>
 
 <p align="center">
-  Turning raw data into meaningful insights through analytics, visualization, and business thinking.
+  <a href="https://github.com/Nilesh8766">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" height="32" width="32"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nilesh-buradkar/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="32" width="32"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/nilesh_8766/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="32" width="32"/>
+  </a>
 </p>
 
 ---
@@ -27,25 +27,9 @@
 - 💼 Currently working as an **Associate Process Executive**
 - 📊 Aspiring to build a career in **Data Analytics**
 - 🔭 Current project: [Airline Operations Analytics](https://github.com/Nilesh8766/airline_operations_analytics)
-- 🌱 Learning Generative AI for Data Analysis and Prompt Engineering
-- 🧠 Interested in business intelligence, statistics, EDA, and data-driven decision-making
-- 🎯 Goal: Build practical projects that solve real business problems
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/nilesh-buradkar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Nilesh8766">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.instagram.com/nilesh_8766/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+- 🌱 Currently learning Generative AI for Data Analysis and Prompt Engineering
+- 🧠 Interested in Business Intelligence, Statistics, EDA, and Data-Driven Decision Making
+- 🎯 Goal: Build practical analytics projects and develop job-ready skills
 
 ---
 
@@ -54,29 +38,31 @@
 ### 📊 Data Analytics
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="45" height="45" alt="Microsoft Excel" title="Microsoft Excel"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="45" height="45" alt="Power BI" title="Power BI"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="45" height="45" alt="SQL and MySQL" title="SQL and MySQL"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="45" height="45" alt="Python" title="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="45" height="45" alt="Pandas" title="Pandas"/>
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/microsoft_excel.svg" height="45" width="45" alt="Microsoft Excel" title="Microsoft Excel"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="45" width="45" alt="Power BI" title="Power BI"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" width="45" alt="SQL and MySQL" title="SQL and MySQL"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="45" width="45" alt="Python" title="Python"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="45" width="45" alt="Pandas" title="Pandas"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/seaborn/4C72B0" height="45" width="45" alt="Seaborn" title="Seaborn"/>
 </p>
 
 ### 🗄️ Databases & Development Tools
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="45" height="45" alt="PostgreSQL" title="PostgreSQL"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="45" height="45" alt="MongoDB" title="MongoDB"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" width="45" height="45" alt="Git" title="Git"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" height="45" alt="GitHub" title="GitHub"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="45" height="45" alt="Jupyter Notebook" title="Jupyter Notebook"/>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="45" width="45" alt="PostgreSQL" title="PostgreSQL"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="45" width="45" alt="MongoDB" title="MongoDB"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" height="45" width="45" alt="Git" title="Git"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="45" width="45" alt="GitHub" title="GitHub"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="45" width="45" alt="Jupyter Notebook" title="Jupyter Notebook"/>
 </p>
 
 ### 📚 Analytics Concepts
@@ -102,7 +88,7 @@
 
 An analytics project focused on exploring airline operational data, identifying patterns, and communicating findings through data analysis.
 
-**Explore the project:** [View Repository →](https://github.com/Nilesh8766/airline_operations_analytics)
+**[Explore the project on GitHub →](https://github.com/Nilesh8766/airline_operations_analytics)**
 
 ---
 
@@ -110,12 +96,11 @@ An analytics project focused on exploring airline operational data, identifying 
 
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNilesh8766&query=%24.public_repos&label=Public%20Repositories&logo=github&color=181717&style=for-the-badge" alt="Public Repositories"/>
-  <img src="https://komarev.com/ghpvc/?username=Nilesh8766&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nilesh8766&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh8766&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Most Used Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh8766&layout=donut&langs_count=6&theme=transparent&hide_border=true&custom_title=Language%20Breakdown" alt="GitHub Languages Donut Chart"/>
 </p>
 
 ---
@@ -131,14 +116,11 @@ An analytics project focused on exploring airline operational data, identifying 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/Nilesh8766?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-0e75b6?style=for-the-badge&logo=github" alt="Explore Repositories"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nilesh8766&theme=github_dark" alt="GitHub Contribution Activity Graph"/>
 </p>
 
 <p align="center">
-  View my latest contributions and activity directly on my
-  <a href="https://github.com/Nilesh8766">GitHub profile</a>.
+  <a href="https://github.com/Nilesh8766?tab=repositories">Explore all my repositories →</a>
 </p>
 
 ---
