@@ -1,31 +1,116 @@
-<h1 align="center">Hi 👋, I'm Nilesh Buradkar</h1>
-<h3 align="center">Associate Process Executive | Aspiring Data Analyst | Excel | SQL | Power BI | Python | EDA | AI & Data Operations | Generative AI</h3>
+# 👋 Hi, I'm Nilesh Buradkar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilesh8766&label=Profile%20views&color=0e75b6&style=flat" alt="nilesh8766" /> </p>
+### Associate Process Executive | Aspiring Data Analyst
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilesh8766" alt="nilesh8766" /></a> </p>
+I enjoy turning raw data into meaningful insights that help businesses make better decisions. I'm building my skills in data analytics, exploratory data analysis, SQL, Python, Power BI, and Generative AI for data analysis.
 
-- 🔭 I’m currently working on [airline_operations_analytics](https://github.com/Nilesh8766/airline_operations_analytics)
+- 🔭 **Currently working on:** [Airline Operations Analytics](https://github.com/Nilesh8766/airline_operations_analytics)
+- 🌱 **Currently learning:** Generative AI for Data Analysis and Prompt Engineering
+- 📊 **Areas of interest:** Business Intelligence, Data Analysis, EDA, and Data-Driven Decision Making
+- 💼 **Professional focus:** Building practical projects and developing job-ready analytical skills
+- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/nilesh-buradkar/)
 
-- 🌱 I’m currently learning **Genrative AI for Data analysis, Prompt Engineering**
+---
 
-- 💬 Ask me about **Data analysis, Data, Insights, About AI**
+## 🌐 Connect with Me
 
-- 📫 How to reach me **www.linkedin.com/in/nilesh-buradkar**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nilesh buradkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilesh buradkar" height="30" width="40" /></a>
-<a href="https://fb.com/nilesh buradkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nilesh buradkar" height="30" width="40" /></a>
-<a href="https://instagram.com/nilesh_8766" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nilesh_8766" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/440034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="440034" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nilesh-buradkar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Nilesh8766">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/nilesh_8766/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilesh8766&show_icons=true&locale=en&layout=compact" alt="nilesh8766" /></p>
+## 🛠️ Skills & Technologies
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilesh8766&show_icons=true&locale=en" alt="nilesh8766" /></p>
+### Data Analytics
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilesh8766&" alt="nilesh8766" /></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Statistics%20%26%20EDA-386CB0?style=for-the-badge" alt="Statistics and EDA"/>
+</p>
+
+### Python & Data Libraries
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+</p>
+
+### Databases & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+</p>
+
+---
+
+## 🚀 Featured Project
+
+<p align="center">
+  <a href="https://github.com/Nilesh8766/airline_operations_analytics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nilesh8766&repo=airline_operations_analytics&theme=transparent&hide_border=true" alt="Airline Operations Analytics Project"/>
+  </a>
+</p>
+
+**Airline Operations Analytics**
+
+An analytics project focused on exploring airline operational data to identify patterns, understand performance, and communicate actionable insights.
+
+Explore the repository for the dataset, methodology, analysis, and findings.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNilesh8766&query=%24.public_repos&label=Public%20Repos&logo=github&color=181717&style=for-the-badge" alt="Public repositories"/>
+  <img src="https://komarev.com/ghpvc/?username=Nilesh8766&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nilesh8766&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh8766&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Nilesh8766&theme=transparent&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh8766&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
+</p>
+
+---
+
+## 🎯 My Goal
+
+My goal is to become a skilled Data Analyst who can transform business problems into analytical questions, explore data systematically, identify meaningful patterns, and communicate findings clearly.
+
+I believe in **consistent learning, practical projects, and continuous improvement.**
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b>
+  <br/>
+  Let's connect, collaborate, and learn together. 🚀
+</p>
