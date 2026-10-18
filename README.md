@@ -42,7 +42,7 @@
 
 <p align="left">
   <img
-  src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"
+  src="https://upload.wikimedia.org/wikipedia/commons/6/60/Microsoft_Office_Excel_%282025%E2%80%93present%29.svg"
   height="45"
   width="45"
   alt="Microsoft Excel"
