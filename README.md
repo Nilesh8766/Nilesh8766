@@ -141,11 +141,11 @@ An analytics project focused on exploring airline operational data, identifying 
 <table>
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Nilesh8766&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
-        alt="Nilesh's GitHub Statistics"
-        width="100%"
-      />
+     <img
+  src="https://github-readme-stats.vercel.app/api?username=Nilesh8766&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github"
+  alt="Nilesh's GitHub Statistics"
+  width="100%"
+/>
     </td>
     <td width="50%" align="center" valign="middle">
       <img
