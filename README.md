@@ -135,12 +135,30 @@ An analytics project focused on exploring airline operational data, identifying 
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNilesh8766&query=%24.public_repos&label=Public%20Repositories&logo=github&color=181717&style=for-the-badge" alt="Public Repositories"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNilesh8766&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&logo=github&logoColor=white&color=238636&style=for-the-badge" alt="Public Repositories"/>
 </p>
 
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Nilesh8766&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
+        alt="Nilesh's GitHub Statistics"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh8766&layout=donut&langs_count=5&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=Top%20Languages"
+        alt="GitHub Top Languages Donut Chart"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nilesh8766&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh8766&layout=donut&langs_count=6&theme=transparent&hide_border=true&custom_title=Language%20Breakdown" alt="GitHub Languages Donut Chart"/>
+  <sub>Consistent learning. Practical projects. Data-driven thinking.</sub>
 </p>
 
 ---
