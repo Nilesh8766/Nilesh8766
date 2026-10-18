@@ -42,7 +42,7 @@
 
 <p align="left">
   <img
-  src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/microsoft-excel-icon.png"
+  src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"
   height="45"
   width="45"
   alt="Microsoft Excel"
@@ -63,6 +63,13 @@
   width="90"
   alt="Seaborn"
   title="Seaborn"
+/>
+  &nbsp;&nbsp;&nbsp;
+  <img
+  src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg"
+  height="45"
+  alt="NumPy"
+  title="NumPy"
 />
 </p>
 
