@@ -89,11 +89,29 @@
 
 ### 📚 Analytics Concepts
 
+**Analytical Foundations**
+
 <p>
-  <img src="https://img.shields.io/badge/Statistics-Concepts-386CB0?style=flat-square" alt="Statistics"/>
-  <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-EDA-0E8A75?style=flat-square" alt="EDA"/>
-  <img src="https://img.shields.io/badge/Data%20Cleaning-Analysis-7952B3?style=flat-square" alt="Data Cleaning"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-Learning-412991?style=flat-square" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Statistics-386CB0?style=flat-square" alt="Statistics"/>
+  <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-0E7490?style=flat-square" alt="Exploratory Data Analysis"/>
+  <img src="https://img.shields.io/badge/Data%20Cleaning-217346?style=flat-square" alt="Data Cleaning"/>
+  <img src="https://img.shields.io/badge/Data%20Quality-64748B?style=flat-square" alt="Data Quality"/>
+</p>
+
+**Business Analysis**
+
+<p>
+  <img src="https://img.shields.io/badge/KPI%20Analysis-0F766E?style=flat-square" alt="KPI Analysis"/>
+  <img src="https://img.shields.io/badge/Trend%20Analysis-2563EB?style=flat-square" alt="Trend Analysis"/>
+  <img src="https://img.shields.io/badge/Pattern%20Detection-7C3AED?style=flat-square" alt="Pattern Detection"/>
+  <img src="https://img.shields.io/badge/Business%20Insights-15803D?style=flat-square" alt="Business Insights"/>
+</p>
+
+**AI-Assisted Analysis**
+
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-6D28D9?style=flat-square" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-9333EA?style=flat-square" alt="Prompt Engineering"/>
 </p>
 
 ---
